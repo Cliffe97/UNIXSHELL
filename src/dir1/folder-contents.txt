@@ -1,0 +1,3 @@
+f1.txt
+dir2
+folder-contents.txt
